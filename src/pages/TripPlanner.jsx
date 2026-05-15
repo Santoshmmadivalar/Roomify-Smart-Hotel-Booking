@@ -444,7 +444,7 @@ Assistant:`;
 
                 {/* Map Preview Placeholder */}
                 <div className="bg-white/5 border border-white/10 rounded-2xl p-4 relative overflow-hidden h-48 group">
-                  <div className="absolute inset-0 bg-[url('/@fs/C:/Users/Santosh%20Madiwalar/.gemini/antigravity/brain/046b6c41-51e9-4630-b37c-3a8b3764e103/travel_map_preview_1778332461511.png')] bg-cover bg-center opacity-60 group-hover:opacity-100 transition-opacity"></div>
+                  <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&q=80&w=600')] bg-cover bg-center opacity-60 group-hover:opacity-100 transition-opacity"></div>
                   <div className="absolute inset-0 bg-gradient-to-t from-[#121212] via-[#121212]/80 to-transparent"></div>
                   <div className="relative h-full flex flex-col justify-end">
                     <h4 className="text-white font-medium mb-1 flex items-center gap-2"><MapPin className="w-4 h-4 text-red-400" /> Interactive Map</h4>
