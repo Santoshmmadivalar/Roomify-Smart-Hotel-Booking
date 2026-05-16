@@ -1,183 +1,330 @@
-Create a production-quality full-stack hotel booking web application called:
+Create a production-grade full-stack hotel booking web application named:
 
-“Roomify – Smart Hotel Booking Platform”
+# “Roomify – Smart Hotel Booking Platform”
 
-The project should be designed like a modern Indian startup product inspired by Airbnb, Booking.com, and premium SaaS dashboards.
+The application must look and behave like a real Indian startup product inspired by:
+- Airbnb
+- Booking.com
+- OYO
+- Modern AI SaaS dashboards
 
---------------------------------------------------
-🎯 OBJECTIVE
---------------------------------------------------
+The project must use scalable MERN architecture principles and production-level UI/UX practices.
 
-Build a scalable MERN-stack based smart hotel booking platform with:
-- Premium modern UI/UX
+==================================================
+🎯 PRIMARY GOAL
+==================================================
+
+Build a premium hotel booking platform with:
+- Smart hotel discovery
 - AI-powered travel assistance
-- Real-time booking experience
-- Responsive layouts
-- Smart search and filtering
-- Hotel management workflows
+- Real-time booking workflow
+- Advanced filtering system
+- Responsive SaaS-style interface
+- Scalable backend architecture
+- Hotel & booking management
 
-The application should feel realistic, startup-ready, and production-grade.
+The application should feel:
+- startup-ready
+- premium
+- realistic
+- modern
+- deployable
 
---------------------------------------------------
-🛠️ TECH STACK
---------------------------------------------------
+Do NOT generate beginner-level UI.
+
+==================================================
+🛠 TECH STACK
+==================================================
 
 Frontend:
-- React.js
+- React.js (Vite)
 - Tailwind CSS
-- JavaScript (ES6+)
 - React Router DOM
 - Framer Motion
+- Axios
+- Context API or Redux Toolkit
 
 Backend:
 - Node.js
 - Express.js
-- MongoDB
+- MongoDB + Mongoose
 - JWT Authentication
+- bcrypt.js
+- dotenv
+- cookie-parser
 
-Deployment Ready:
-- Vercel / Netlify (Frontend)
-- Render / Railway / MongoDB Atlas (Backend)
+Deployment:
+Frontend:
+- Vercel / Netlify
 
---------------------------------------------------
-🎨 UI / UX STYLE
---------------------------------------------------
+Backend:
+- Render / Railway
 
-Design a premium dark luxury interface using:
-- Deep navy → royal blue gradients
-- Glassmorphism cards
-- Soft shadows
-- Smooth transitions & animations
-- Clean typography hierarchy
-- Modern SaaS dashboard aesthetics
-- Mobile-first responsive layouts
+Database:
+- MongoDB Atlas
 
-The UI should combine:
-Airbnb simplicity + Booking.com functionality + AI SaaS aesthetics.
+==================================================
+🎨 UI / UX DESIGN SYSTEM
+==================================================
 
---------------------------------------------------
-🚀 CORE FEATURES
---------------------------------------------------
+Design Style:
+- Modern dark luxury UI
+- Premium SaaS aesthetics
+- Glassmorphism
+- Elegant spacing system
+- Consistent design language
+- Smooth animations
 
-Authentication:
+Color Palette:
+- Deep navy
+- Royal blue
+- Indigo gradients
+- White typography
+- Soft neon highlights
+
+UI Requirements:
+- Mobile-first responsive design
+- Reusable component architecture
+- Hover animations
+- Skeleton loading states
+- Smooth page transitions
+- Sticky navbar
+- Interactive hotel cards
+- Animated hero section
+
+The design should combine:
+Airbnb simplicity + Booking.com functionality + AI SaaS visual quality.
+
+==================================================
+🔐 AUTHENTICATION SYSTEM
+==================================================
+
+Implement:
 - Login
 - Signup
-- JWT-based auth
-- Protected routes
+- JWT Authentication
+- Protected Routes
+- Role-based Access
+- Logout functionality
+- Persistent authentication
 
-Hotel Features:
+Roles:
+- User
+- Admin
+- Hotel Owner (optional)
+
+==================================================
+🏨 HOTEL FEATURES
+==================================================
+
+Hotel System:
 - Hotel listings
-- Hotel detail pages
-- Room availability system
-- Booking workflow
-- Wishlist / saved hotels
+- Hotel details page
+- Image gallery
+- Room availability
+- Pricing section
+- Amenities section
 - Ratings & reviews
+- Wishlist system
+- Booking workflow
 
-Search System:
-- Smart search
-- Filters by location, price, ratings
-- Indian tourist destinations
+Include:
+- Indian hotel destinations
+- Goa
+- Manali
+- Mysore
+- Jaipur
+- Udaipur
+- Kerala
+- Mumbai
 
-AI Features:
-- AI travel assistant UI
+Hotel Cards Must Include:
+- Hotel image
+- Price
+- Rating
+- Location
+- Availability badge
+- Favorite icon
+
+==================================================
+🔎 SMART SEARCH & FILTERING
+==================================================
+
+Implement:
+- Search by city
+- Filter by:
+  - price
+  - ratings
+  - amenities
+  - availability
+- Sort options
+- Smart recommendation section
+- Popular destinations section
+
+==================================================
+🤖 AI FEATURES
+==================================================
+
+Create UI for:
+- AI travel assistant
 - Smart hotel recommendations
-- Personalized travel suggestions
+- Personalized suggestions
+- Travel chatbot interface
+- Suggested itineraries
 
-Admin Features:
-- Admin dashboard
-- Booking management
+The AI section should look futuristic and premium.
+
+==================================================
+📊 ADMIN DASHBOARD
+==================================================
+
+Admin Panel Features:
+- Dashboard overview
+- Booking analytics
 - Hotel management
-- User analytics UI
+- User management
+- Revenue cards
+- Recent bookings table
+- Charts & statistics UI
 
---------------------------------------------------
+Use:
+- Modern dashboard cards
+- Sidebar navigation
+- Analytics widgets
+
+==================================================
 📱 REQUIRED PAGES
---------------------------------------------------
+==================================================
 
-Create:
+Generate fully responsive pages:
+
+Public Pages:
 - Landing Page
 - Home Page
 - Hotel Listings Page
 - Hotel Details Page
-- Booking Page
-- Payment Page
-- User Dashboard
-- Admin Dashboard
-- Login / Signup Pages
+- About Page
+- Contact Page
+- 404 Page
+
+Authentication:
+- Login Page
+- Signup Page
+
+User Pages:
 - Wishlist Page
+- Booking History
+- User Dashboard
+- Profile Settings
+
+Admin Pages:
+- Admin Dashboard
+- Hotel Management
+- Booking Management
+- User Analytics
+
+AI Features:
 - AI Assistant Page
-- Error / 404 Page
 
---------------------------------------------------
-📂 PROJECT STRUCTURE
---------------------------------------------------
+==================================================
+📂 SCALABLE PROJECT STRUCTURE
+==================================================
 
-Use scalable folder architecture:
+Use clean scalable architecture:
 
 Roomify/
 │
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── layouts/
-│   ├── hooks/
-│   ├── services/
-│   ├── context/
-│   ├── utils/
-│   ├── routes/
-│   └── App.js
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   │   ├── ui/
+│   │   │   ├── hotel/
+│   │   │   ├── dashboard/
+│   │   │   └── common/
+│   │   ├── pages/
+│   │   ├── layouts/
+│   │   ├── hooks/
+│   │   ├── context/
+│   │   ├── services/
+│   │   ├── routes/
+│   │   ├── utils/
+│   │   ├── data/
+│   │   └── App.jsx
 │
 ├── backend/
+│   ├── config/
 │   ├── controllers/
+│   ├── middleware/
 │   ├── models/
 │   ├── routes/
-│   ├── middleware/
-│   └── server.js
+│   ├── services/
+│   ├── utils/
+│   ├── server.js
+│   └── app.js
 │
-├── package.json
-└── README.md
+├── README.md
+└── package.json
 
---------------------------------------------------
+==================================================
 ⚡ DEVELOPMENT REQUIREMENTS
---------------------------------------------------
+==================================================
 
-- Use reusable React components
-- Follow clean code practices
-- Use responsive Tailwind utility classes
-- Include loading states and hover animations
-- Add realistic hotel cards and Indian destinations
-- Use dummy APIs or mock JSON data where needed
-- Maintain consistent spacing and design system
+Must Include:
+- Clean reusable components
+- Responsive Tailwind layouts
+- API integration structure
+- Error handling
+- Toast notifications
+- Loading indicators
+- Form validation
+- Mock backend data if needed
+- Clean code comments
+- SEO-friendly structure
 
---------------------------------------------------
+Use:
+- Functional React components
+- Hooks-based architecture
+- Reusable UI components
+- Modular folder structure
+
+==================================================
 🌍 FUTURE ENHANCEMENTS
---------------------------------------------------
+==================================================
 
 Prepare architecture for:
 - Real-time booking updates
-- Payment gateway integration
+- Stripe/Razorpay integration
 - AI recommendation engine
 - Voice assistant
 - Multi-language support
-- Map & geolocation integration
+- Google Maps integration
 - Dynamic pricing engine
+- Hotel owner portal
+- Email notifications
+- Booking invoice generation
 
---------------------------------------------------
+==================================================
 📌 OUTPUT EXPECTATION
---------------------------------------------------
+==================================================
 
 Generate:
-- Complete frontend UI
-- Reusable components
-- Responsive pages
+- Production-quality frontend
 - Backend-ready architecture
-- Production-quality styling
+- Premium UI system
+- Fully responsive pages
+- Reusable components
 - Realistic booking experience
+- Modern animations
+- Indian startup-level design
 
 Do NOT generate:
-- Basic beginner layouts
-- Plain bootstrap-style UI
-- Inconsistent styling
+- Bootstrap-style layouts
+- Generic templates
 - Random colors
-- Low-quality placeholder design
+- Weak typography
+- Low-quality spacing
+- Beginner UI
+- Inconsistent components
+- Plain white backgrounds
