@@ -105,7 +105,8 @@ The project combines the simplicity of Airbnb with modern AI travel experiences 
 
 ### 🏠 Home Page
 
-<img src="https://via.placeholder.com/1200x650/0f172a/ffffff?text=Roomify+Home+Page" width="90%" />
+<img src="<img width="1920" height="1140" alt="Screenshot 2026-05-15 134933" src="https://github.com/user-attachments/assets/4de1af2c-4b1d-4724-98ff-9effb0b4639a" />
+" width="90%" />
 
 ---
 
