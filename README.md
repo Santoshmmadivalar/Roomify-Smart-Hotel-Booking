@@ -1,93 +1,229 @@
-# 🏨 Roomify – Smart Hotel Booking Platform
+<div align="center">
+
+# 🏨 Roomify  
+### Smart Hotel Booking Platform
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Santoshmmadivalar/Roomify-Smart-Hotel-Booking?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/forks/Santoshmmadivalar/Roomify-Smart-Hotel-Booking?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/issues/Santoshmmadivalar/Roomify-Smart-Hotel-Booking?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/TailwindCSS-Modern_UI-38BDF8?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/github/stars/Santoshmmadivalar/Roomify-Smart-Hotel-Booking?style=for-the-badge&logo=github&color=7c3aed" />
+  <img src="https://img.shields.io/github/forks/Santoshmmadivalar/Roomify-Smart-Hotel-Booking?style=for-the-badge&logo=github&color=2563eb" />
+  <img src="https://img.shields.io/github/issues/Santoshmmadivalar/Roomify-Smart-Hotel-Booking?style=for-the-badge&logo=github&color=dc2626" />
+  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Modern_UI-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>AI-Powered Hotel Booking Experience for Modern Travelers</b>
+</p>
+
+<p align="center">
+  Inspired by Airbnb, Booking.com, and premium SaaS dashboards.
 </p>
 
 ---
 
-## ✨ Overview
+### ✨ Live Modern UI • ⚡ Fast Experience • 🤖 Smart Recommendations
 
-Roomify is a modern AI-powered hotel booking web application inspired by platforms like Airbnb, Booking.com, and premium SaaS dashboards.
-
-The project focuses on:
-- Smart hotel discovery
-- Responsive booking experiences
-- Modern dark luxury UI
-- AI-powered travel assistance
-- Scalable MERN architecture principles
-
-Roomify combines elegant frontend design with real-world hotel booking workflows to create a realistic startup-style hospitality platform.
+</div>
 
 ---
 
-# 🚀 Features
+# 🌌 Overview
 
-## 🔐 Authentication System
+Roomify is a modern hotel booking web application designed with a premium startup-style experience.
+
+Built using **React + Tailwind CSS**, the platform focuses on:
+
+- Smart hotel discovery
+- AI-powered travel assistance
+- Elegant booking workflows
+- Responsive SaaS-inspired UI
+- Smooth user experience
+- Scalable MERN architecture mindset
+
+The project combines the simplicity of Airbnb with modern AI travel experiences and dark luxury interface aesthetics.
+
+---
+
+# 🚀 Core Features
+
+<table>
+<tr>
+<td width="50%">
+
+## 🔐 Authentication
 - Login & Signup
-- JWT-ready authentication architecture
-- Protected routes
-- User session management
+- Protected Routes
+- JWT-ready architecture
+- User session flow
 
-## 🏨 Hotel Booking Features
+## 🏨 Hotel Booking
 - Hotel listings
-- Hotel detail pages
-- Dynamic booking workflow
-- Room availability system
+- Detailed hotel pages
+- Booking workflow
+- Room availability
 - Ratings & reviews
-- Wishlist / saved hotels
+- Wishlist system
 
-## 🔎 Smart Search System
+## 🔎 Smart Search
 - Search by destination
-- Filter by price & ratings
+- Price filters
+- Rating filters
 - Smart recommendations
-- Indian travel destinations
 
-## 🤖 AI Travel Features
+</td>
+
+<td width="50%">
+
+## 🤖 AI Features
 - AI Trip Planner
-- Smart hotel recommendations
-- Personalized travel UI
-- Modern chatbot-inspired interface
+- Smart travel assistant
+- Personalized suggestions
+- Recommendation interface
 
-## 📊 Dashboard System
+## 📊 Dashboard
 - User dashboard
 - Booking management
 - Admin dashboard UI
-- Analytics-ready structure
+- Analytics-ready layout
 
-## 🎨 Premium UI/UX
-- Glassmorphism effects
-- Deep navy → royal blue gradients
+## 🎨 Premium UI
+- Glassmorphism
+- Dark luxury theme
+- Gradient backgrounds
 - Smooth animations
-- Responsive layouts
-- Modern SaaS design system
+- Mobile responsive
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🖼️ Preview
+
+<div align="center">
+
+### 🏠 Home Page
+
+<img src="https://via.placeholder.com/1200x650/0f172a/ffffff?text=Roomify+Home+Page" width="90%" />
+
+---
+
+### 🏨 Hotel Listings
+
+<img src="https://via.placeholder.com/1200x650/111827/ffffff?text=Hotel+Listings" width="90%" />
+
+---
+
+### 🤖 AI Travel Assistant
+
+<img src="https://via.placeholder.com/1200x650/1e1b4b/ffffff?text=AI+Travel+Assistant" width="90%" />
+
+</div>
 
 ---
 
 # 🛠️ Tech Stack
 
-## Frontend
-- React.js
-- Vite
-- Tailwind CSS
-- React Router DOM
-- Framer Motion
-- Lucide React
+<div align="center">
 
-## Backend Architecture (Planned)
-- Node.js
-- Express.js
-- MongoDB
-- JWT Authentication
+| Frontend | Backend | Styling | Deployment |
+|----------|----------|----------|-------------|
+| React.js | Node.js | Tailwind CSS | Vercel |
+| Vite | Express.js | Framer Motion | Netlify |
+| React Router | MongoDB | Glassmorphism UI | Render |
+| Context API | JWT Auth | Responsive Design | MongoDB Atlas |
 
-## Deployment
-- Vercel / Netlify
-- Render / Railway
-- MongoDB Atlas
+</div>
+
+---
+
+# ⚡ Quick Start
+
+## 📥 Clone Repository
+
+```bash
+git clone https://github.com/Santoshmmadivalar/Roomify-Smart-Hotel-Booking.git
+```
+
+---
+
+## 📂 Navigate Into Project
+
+```bash
+cd Roomify-Smart-Hotel-Booking
+```
+
+---
+
+## 📦 Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+## 🚀 Start Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+# 📁 Project Structure
+
+```bash
+Roomify/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Footer.jsx
+│   │   ├── HotelCard.jsx
+│   │   └── UI Components
+│   │
+│   ├── context/
+│   │   └── BookingContext.jsx
+│   │
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Search.jsx
+│   │   ├── HotelDetails.jsx
+│   │   ├── Dashboard.jsx
+│   │   ├── Login.jsx
+│   │   ├── Register.jsx
+│   │   ├── Admin.jsx
+│   │   └── TripPlanner.jsx
+│   │
+│   ├── utils/
+│   │   └── dummyData.js
+│   │
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+├── tailwind.config.js
+└── vite.config.js
+```
+
+---
+
+# 🌍 Future Enhancements
+
+- 💳 Razorpay / Stripe Integration
+- 📍 Google Maps Integration
+- 🤖 AI Recommendation Engine
+- 🔔 Real-Time Notifications
+- 🌐 Multi-Language Support
+- 🎤 Voice Assistant
+- 📈 Dynamic Pricing System
+- 🧾 Booking Invoice Generator
+- 🏨 Hotel Owner Dashboard
 
 ---
 
@@ -107,121 +243,14 @@ Roomify combines elegant frontend design with real-world hotel booking workflows
 
 ---
 
-# ⚡ Quick Start
-
-## 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/Santoshmmadivalar/Roomify-Smart-Hotel-Booking.git
-```
-
-## 2️⃣ Move Into Project Folder
-
-```bash
-cd Roomify-Smart-Hotel-Booking
-```
-
-## 3️⃣ Install Dependencies
-
-```bash
-npm install
-```
-
-## 4️⃣ Start Development Server
-
-```bash
-npm run dev
-```
-
----
-
-# 🚀 Available Scripts
+# 🚀 Available Commands
 
 | Command | Description |
 |---------|-------------|
 | `npm run dev` | Start development server |
-| `npm run build` | Create production build |
+| `npm run build` | Production build |
 | `npm run preview` | Preview production build |
 | `npm run lint` | Run ESLint |
-
----
-
-# 📸 Screenshots
-
-## 🏠 Home Page
-
-<p align="center">
-  <img src="https://via.placeholder.com/1200x600?text=Roomify+Home+Page" width="90%" />
-</p>
-
----
-
-## 🏨 Hotel Listings
-
-<p align="center">
-  <img src="https://via.placeholder.com/1200x600?text=Hotel+Listings" width="90%" />
-</p>
-
----
-
-## 🤖 AI Trip Planner
-
-<p align="center">
-  <img src="https://via.placeholder.com/1200x600?text=AI+Trip+Planner" width="90%" />
-</p>
-
----
-
-# 📂 Project Structure
-
-```bash
-Roomify/
-│
-├── public/
-│
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── Footer.jsx
-│   │   └── UI Components
-│   │
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── Search.jsx
-│   │   ├── HotelDetails.jsx
-│   │   ├── Dashboard.jsx
-│   │   ├── Login.jsx
-│   │   ├── Register.jsx
-│   │   ├── Admin.jsx
-│   │   └── TripPlanner.jsx
-│   │
-│   ├── context/
-│   │   └── BookingContext.jsx
-│   │
-│   ├── utils/
-│   │   └── dummyData.js
-│   │
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── package.json
-├── tailwind.config.js
-└── vite.config.js
-```
-
----
-
-# 🌍 Future Enhancements
-
-- Real-time hotel availability
-- Razorpay / Stripe integration
-- AI recommendation engine
-- Google Maps integration
-- Voice assistant
-- Booking invoice generation
-- Multi-language support
-- Hotel owner dashboard
-- Dynamic pricing engine
 
 ---
 
@@ -229,28 +258,36 @@ Roomify/
 
 Contributions are welcome.
 
-## Contribution Steps
-
-1. Fork the repository
-2. Create your feature branch
+## Contribution Workflow
 
 ```bash
-git checkout -b feature/feature-name
+# Fork repository
+
+# Create feature branch
+git checkout -b feature-name
+
+# Commit changes
+git commit -m "Add feature"
+
+# Push branch
+git push origin feature-name
 ```
 
-3. Commit your changes
+Then open a Pull Request 🚀
 
-```bash
-git commit -m "Add new feature"
-```
+---
 
-4. Push to GitHub
+# 👨‍💻 Author
 
-```bash
-git push origin feature/feature-name
-```
+<div align="center">
 
-5. Open a Pull Request
+## Santosh M M
+
+### 🔗 GitHub Repository
+
+### https://github.com/Santoshmmadivalar/Roomify-Smart-Hotel-Booking
+
+</div>
 
 ---
 
@@ -260,16 +297,10 @@ This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Author
+<div align="center">
 
-## Santosh M M
+### ⭐ If you like this project, give it a star on GitHub!
 
-### GitHub Repository
+Built with ❤️ using React, Tailwind CSS & modern UI engineering.
 
-👉 https://github.com/Santoshmmadivalar/Roomify-Smart-Hotel-Booking
-
----
-
-<p align="center">
-  Built with ❤️ using React, Tailwind CSS, and modern UI engineering principles.
-</p>
+</div>
