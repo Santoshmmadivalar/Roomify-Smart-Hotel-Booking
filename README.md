@@ -325,13 +325,6 @@ Then open a Pull Request 🚀
 This project is licensed under the MIT License.
 
 
----
-
-<div align="center">
-
-# 🌟 Feedback & Support
-
----
 
 ---
 
@@ -339,7 +332,7 @@ This project is licensed under the MIT License.
 
 # 🌟 Feedback & Support
 
-✨ If you like this project, consider giving it a ⭐ on GitHub!
+✨ If you like this project, consider giving it a ❤️ on GitHub!
 
 💬 Have suggestions, ideas, or found a bug?  
 Feel free to open an issue or share your feedback.
