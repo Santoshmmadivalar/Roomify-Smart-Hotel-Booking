@@ -330,24 +330,26 @@ This project is licensed under the MIT License.
 <div align="center">
 
 # 🌟 Feedback & Support
-### ❤️ If you like this project, give it a star on GitHub!
-
 
 ---
 
+## 💎 Support This Project
 
+> Enjoyed exploring this project?  
+> Your feedback and support mean a lot ❤️
 
-💬 Have suggestions, ideas, or found a bug?  
-Feel free to open an issue or share your feedback.
+### 🌟 Ways to Support
 
-<a href="">
-  <img src="https://github.com/Santoshmmadivalar/Roomify-Smart-Hotel-Booking/issues" />
-</a>
+- ⭐ Star this repository
+- 🐛 Report bugs & issues
+- 💡 Suggest new features
+- 🍴 Fork & contribute
 
-<a href="https://github.com/your-username/your-repo">
-  <img src="https://img.shields.io/badge/Give%20a-Star-yellow?style=for-the-badge&logo=github" />
-</a>
+### 🔗 GitHub Issues
 
+[Open an Issue](https://github.com/your-username/your-repo/issues)
+
+---
 ### 🚀 Your support motivates future improvements!
 
 </div>
