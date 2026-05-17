@@ -27,6 +27,19 @@
 
 ---
 
+<div align="center">
+
+## 🔥 Try the Live Demo
+
+<a href="https://your-vercel-link.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/CLICK%20TO%20OPEN-LIVE%20DEMO-success?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+---
+
 # 🌌 Overview
 
 Roomify is a modern hotel booking web application designed with a premium startup-style experience.
