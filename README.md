@@ -119,7 +119,17 @@ The project combines the simplicity of Airbnb with modern AI travel experiences 
 
 ### 🤖 AI Travel Assistant
 
-<img src="https://via.placeholder.com/1200x650/1e1b4b/ffffff?text=AI+Travel+Assistant" width="90%" />
+<img width="1920" height="1140" alt="Screenshot 2026-05-15 135132" src="https://github.com/user-attachments/assets/3d0306f2-acaf-42e6-9371-bb1bd72318a9" />
+
+
+
+---
+
+# 🌴 TripHaven
+### Discover Beautiful Places & Comfortable Stays
+
+![Uploading Screenshot 2026-05-15 135235.png…]()
+
 
 </div>
 
