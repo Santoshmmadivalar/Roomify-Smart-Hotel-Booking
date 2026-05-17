@@ -29,13 +29,20 @@
 
 <div align="center">
 
-## 🔥 Try the Live Demo
+## 🚀 Launch Website
 
-<a href="https://your-vercel-link.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/CLICK%20TO%20OPEN-LIVE%20DEMO-success?style=for-the-badge" />
+<a href="https://your-vercel-link.vercel.app">
+  <img src="https://img.shields.io/badge/Visit-Live%20Project-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
+<br><br>
+
+✨ Modern Travel & Hotel Booking Experience
+
 </div>
+
+---
+
 
 ---
 ---
