@@ -333,3 +333,29 @@ This project is licensed under the MIT License.
 Built with ❤️ using React, Tailwind CSS & modern UI engineering.
 
 </div>
+
+
+---
+
+---
+
+<div align="center">
+
+# 🌟 Feedback & Support
+
+✨ If you like this project, consider giving it a ⭐ on GitHub!
+
+💬 Have suggestions, ideas, or found a bug?  
+Feel free to open an issue or share your feedback.
+
+<a href="https://github.com/your-username/your-repo/issues">
+  <img src="https://img.shields.io/badge/Report-Issues-red?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/your-username/your-repo">
+  <img src="https://img.shields.io/badge/Give%20a-Star-yellow?style=for-the-badge&logo=github" />
+</a>
+
+### 🚀 Your support motivates future improvements!
+
+</div>
