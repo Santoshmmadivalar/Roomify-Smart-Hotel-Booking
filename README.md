@@ -341,7 +341,7 @@ Feel free to open an issue or share your feedback.
   <img src="https://img.shields.io/badge/Report-Issues-red?style=for-the-badge&logo=github" />
 </a>
 
-<a href="">
+<a href="https://github.com/Santoshmmadivalar/Roomify-Smart-Hotel-Booking/tree/main">
   <img src="https://img.shields.io/badge/Give%20a-Star-yellow?style=for-the-badge&logo=github" />
 </a>
 
@@ -349,6 +349,6 @@ Feel free to open an issue or share your feedback.
 
 </div>
 ---
-### 🚀 Your support motivates future improvements!
+ 🚀 Your support motivates future improvements!
 
 </div>
