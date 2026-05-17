@@ -324,31 +324,23 @@ Then open a Pull Request 🚀
 
 This project is licensed under the MIT License.
 
----
-
-<div align="center">
-
-### ⭐ If you like this project, give it a star on GitHub!
-
-Built with ❤️ using React, Tailwind CSS & modern UI engineering.
-
-</div>
-
-
----
 
 ---
 
 <div align="center">
 
 # 🌟 Feedback & Support
+### ⭐ If you like this project, give it a star on GitHub!
 
-✨ If you like this project, consider giving it a ⭐ on GitHub!
+
+---
+
+
 
 💬 Have suggestions, ideas, or found a bug?  
 Feel free to open an issue or share your feedback.
 
-<a href="https://github.com/your-username/your-repo/issues">
+<a href="">
   <img src="https://img.shields.io/badge/Report-Issues-red?style=for-the-badge&logo=github" />
 </a>
 
