@@ -330,7 +330,7 @@ This project is licensed under the MIT License.
 <div align="center">
 
 # 🌟 Feedback & Support
-### ⭐ If you like this project, give it a star on GitHub!
+### ❤️ If you like this project, give it a star on GitHub!
 
 
 ---
