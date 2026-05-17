@@ -341,7 +341,7 @@ This project is licensed under the MIT License.
 Feel free to open an issue or share your feedback.
 
 <a href="">
-  <img src="https://img.shields.io/badge/Report-Issues-red?style=for-the-badge&logo=github" />
+  <img src="https://github.com/Santoshmmadivalar/Roomify-Smart-Hotel-Booking/issues" />
 </a>
 
 <a href="https://github.com/your-username/your-repo">
