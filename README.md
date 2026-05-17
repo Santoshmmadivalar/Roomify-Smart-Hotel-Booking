@@ -112,7 +112,8 @@ The project combines the simplicity of Airbnb with modern AI travel experiences 
 
 ### 🏨 Hotel Listings
 
-<img src="https://via.placeholder.com/1200x650/111827/ffffff?text=Hotel+Listings" width="90%" />
+<img width="1920" height="1140" alt="Screenshot 2026-05-15 135648" src="https://github.com/user-attachments/assets/b633f0f5-c023-479e-b37c-170ef8fe4b09" />
+
 
 ---
 
