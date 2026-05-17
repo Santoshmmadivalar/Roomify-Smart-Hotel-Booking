@@ -333,22 +333,28 @@ This project is licensed under the MIT License.
 
 ---
 
-## 💎 Support This Project
+---
 
-> Enjoyed exploring this project?  
-> Your feedback and support mean a lot ❤️
+<div align="center">
 
-### 🌟 Ways to Support
+# 🌟 Feedback & Support
 
-- ⭐ Star this repository
-- 🐛 Report bugs & issues
-- 💡 Suggest new features
-- 🍴 Fork & contribute
+✨ If you like this project, consider giving it a ⭐ on GitHub!
 
-### 🔗 GitHub Issues
+💬 Have suggestions, ideas, or found a bug?  
+Feel free to open an issue or share your feedback.
 
-[Open an Issue](https://github.com/your-username/your-repo/issues)
+<a href="https://github.com/your-username/your-repo/issues">
+  <img src="https://img.shields.io/badge/Report-Issues-red?style=for-the-badge&logo=github" />
+</a>
 
+<a href="https://github.com/your-username/your-repo">
+  <img src="https://img.shields.io/badge/Give%20a-Star-yellow?style=for-the-badge&logo=github" />
+</a>
+
+### 🚀 Your support motivates future improvements!
+
+</div>
 ---
 ### 🚀 Your support motivates future improvements!
 
