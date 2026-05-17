@@ -125,10 +125,11 @@ The project combines the simplicity of Airbnb with modern AI travel experiences 
 
 ---
 
-# 🌴 TripHaven
-### Discover Beautiful Places & Comfortable Stays
+### 🌴 TripHaven: Discover Beautiful Places & Comfortable Stays
 
-![Uploading Screenshot 2026-05-15 135235.png…]()
+<img width="1920" height="1140" alt="Screenshot 2026-05-15 135235" src="https://github.com/user-attachments/assets/cac9ed37-ea45-42b4-bf85-1ab15814584b" />
+
+
 
 
 </div>
