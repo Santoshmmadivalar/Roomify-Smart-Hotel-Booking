@@ -348,7 +348,5 @@ Feel free to open an issue or share your feedback.
 ### 🚀 Your support motivates future improvements!
 
 </div>
----
- 🚀 Your support motivates future improvements!
 
 </div>
