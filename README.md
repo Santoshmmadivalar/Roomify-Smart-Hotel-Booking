@@ -3,6 +3,7 @@
 # 🏨 Roomify  
 ### Smart Hotel Booking Platform
 
+
 <p align="center">
   <img src="https://img.shields.io/github/stars/Santoshmmadivalar/Roomify-Smart-Hotel-Booking?style=for-the-badge&logo=github&color=7c3aed" />
   <img src="https://img.shields.io/github/forks/Santoshmmadivalar/Roomify-Smart-Hotel-Booking?style=for-the-badge&logo=github&color=2563eb" />
